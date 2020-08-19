@@ -52,7 +52,7 @@ Pre-recorded lectures, texts, articles, videos, audio clips, as well as addition
 
 We will make extensive use of Git and GitHub to post writing responses, project files, and as the central hub for course materials. 
 
-[Git](https://en.wikipedia.org/wiki/Git) is a file management system primarily used in software development (and also used by artists, writers, designers, among many others) that allows programmers to manage their projects as "repositories" or all-inclusive packages that can be managed and updated easily. [GitHub](https://www.howtogeek.com/180167/htg-explains-what-is-github-and-what-do-geeks-use-it-for/) is a web service that hosts these repositories. GitHub uses Git, but Git does not necessarily use GitHub.
+[Git](https://en.wikipedia.org/wiki/Git) is a file management system primarily used in software development (and also used by artists, writers, designers, scientists, among many others) that allows programmers to manage their projects as "repositories" or all-inclusive packages that can be managed and updated easily. [GitHub](https://www.howtogeek.com/180167/htg-explains-what-is-github-and-what-do-geeks-use-it-for/) is a web service that hosts these repositories. GitHub uses Git, but Git does not necessarily use GitHub.
 
 A free GitHub account is required for this class.
 
