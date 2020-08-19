@@ -32,12 +32,11 @@ Pre-recorded lectures, texts, articles, videos, audio clips, as well as addition
 
 ### Assignments (100 possible points)
 
-* Projects: 60 pt
-- Github Poetry: 10 pts
-- Digital Header: 10 pts
-- Typography: 10 pts
-- Non-linear Narrative: 10 pts
-- Final Portfolio: 20 pts
+* Github Poetry: 10 pts
+* Digital Header: 10 pts
+* Typography: 10 pts
+* Non-linear Narrative: 10 pts
+* Final Portfolio: 20 pts
 * Writing Responses: 20 pts
 * Discussion Participation: 20 pts
 
