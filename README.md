@@ -32,12 +32,12 @@ Pre-recorded lectures, texts, articles, videos, audio clips, as well as addition
 
 ### Assignments (100 possible points)
 
-* Projects: 60 pts
-** Github Poetry: 10 pts
-- Digital Header: 10 pts
-- Typography: 10 pts
-- Non-linear Narrative: 10 pts
-- Final Portfolio: 20 pts
+* Projects: 60 pt
+    Github Poetry: 10 pts
+    Digital Header: 10 pts
+    Typography: 10 pts
+    Non-linear Narrative: 10 pts
+    Final Portfolio: 20 pts
 * Writing Responses: 20 pts
 * Discussion Participation: 20 pts
 
@@ -49,10 +49,12 @@ After project critiques, you will have the chance to revise your assignments usi
 
 This is a four hour course, with one contact hour per week in the form of Thursday discussions. You should expect to read, watch, or listen to around 3 hours of required course materials per week, in addition to the time it will take to complete assignments. Attendance and for all discussions is required. 
 
-In our online discussions:
+While a Zoom call is not a typical classroom, the same basic classroom courtesy applies:
 
-* Don't turn your video off. Turning off your video will be considered leaving early or not showing up.
-* Don't turn your audio off. Ensure you're in a quiet space where you can focus and be present in our discussions. If we're distracted by your background noise, you probably are, too.
-* Don't meet with us from your bed, and in that line, please don't lay down.
-* Do get up and move around, pace, stretch, and reenergize yourself if you want or need to. Don't feel like you have to stare into the camera the entire time.
+* Keep your video on. Turning off your video is the same as leaving early, or not showing up.
+* As much as you're able to, please keep your audio unmuted. Ensure you're in a quiet space where you can focus and be present in our discussions. If we're distracted by your background noise, you probably are, too.
+* Don't meet with us from your bed, and in that line, definitely don't lay down.
+* Within reason, get up and move around, pace, stretch, and reenergize yourself if you want or need to. Don't feel like you have to stare into the camera the entire time.
 * Do complete all readings and be prepared to participate in discussions. This is a significant portion of your grade.
+
+
