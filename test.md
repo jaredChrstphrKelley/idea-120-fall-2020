@@ -3,7 +3,7 @@
 
 #### Syllabus
 
-### [Course Description](test.md)
+### Course Description
 
 Digital media - like Instagram photos, TikTok stories, Google searches, Buzzfeed and Boing Boing articles, Reddit threads, and WhatsApp messages - combines to form the vast majority of the content most of us create and consume every day. Existing digital media and the digitized versions of the old media before it are available to more people than ever before, while even more digital content is created each day than in the whole of human history up to the creation of the internet. Protests, social justice movements, and political campaigns are won or lost through online organization and the dissemination of viral digital media. And this list, the list of influences digital media holds in our lives, still continues to grow and grow. In the vast interconnected global village of the internet, who are we in relationship to and how do we thoughtfully read digital media? And, even more, what skills are most useful to strengthen our careers and communities, and lead our own creative endeavors and social movements in this media landscape? These are some of the primary questions we will be exploring in this digital practices course.
 
