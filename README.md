@@ -10,6 +10,7 @@ Digital media - like Instagram photos, TikTok stories, Google searches, Buzzfeed
 * Our course is oriented toward making, writing, building and identifying relevant skills for a digital media toolkit and historical and theoretical introductions to practices that will be useful for creative and critical thinkers working across disciplines.
 * This course is required for BA in IDEAS, BA in Theatre and Performance, and BA in Theatre Design, Production and Technology. Extensive computer use (and internet access) required.
 \*
+
 ###Course Outcomes
 
 * Students will demonstrate a basic understanding of how key ideas of digital media practices in design and the arts are materialized through current digital media creation tools and their underling social and technological systems.
@@ -25,10 +26,12 @@ Digital media - like Instagram photos, TikTok stories, Google searches, Buzzfeed
 * A website project will evaluate students’ ability to apply computer programming concepts.
 * Assigned readings, videos to watch, audio to listen to, and weekly discussions will challenge students to think critically about how digital media practices in design and the arts shape technological and cultural conditions in relation to questions of community, personal narrative, privacy, and security.
 \*
+
 ###Course Content and Materials
 
 Pre-recorded lectures, texts, articles, videos, audio clips, as well as additional resources like example files and tutorials, can be accessed on the course website, under the heading "Course Content". You will be responsible for watching, reading, and listening to each week's materials, as their content will be explored further in class discussion and your weekly assignments
 \*
+
 ### Assignments (100 possible points)
 
 * Projects: 60 pts
@@ -39,6 +42,7 @@ Pre-recorded lectures, texts, articles, videos, audio clips, as well as addition
 - Final Portfolio: 20 pts
 * Writing Responses: 20 pts
 * Discussion Participation: 20 pts
+\*
 
 ###Revision Policy
 After project critiques, you will have the chance to revise your assignments using what you've learned in our discussion. Revised projects can be submitted directly to me by sharing the updated file on Google Drive.
