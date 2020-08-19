@@ -3,8 +3,15 @@
 
 #### Contents
 * [Instructor](#instructor)
-
-
+* [Office Hours, One on One Meetings](#office-hours-one-on-one-meetings)
+* [Course Description](#course-description)
+* [Course Outcomes](#course-outcomes)
+* [Assessment Methods](#assessment-methods)
+* [Course Content and Materials](#course-content-and-materials)
+* [Git, GitHub](#git-github)
+* [Assignments and Grading](#assignments-and-grading)
+* [Revision Policy](#revision-policy)
+* [Attendance, Participation, and Zoom Expectations](#attendance-participation-and-zoom-expectations)
 
 ### Instructor
 
@@ -50,7 +57,9 @@ We will make extensive use of Git and GitHub to post writing responses, project 
 A free GitHub account is required for this class.
 
 
-### Assignments (100 possible points)
+### Assignments and Grading
+
+There are 100 possible points you can earn from the following assignments:
 
 * Github Poetry Project: 10 pts
 * Digital Header Project: 10 pts
