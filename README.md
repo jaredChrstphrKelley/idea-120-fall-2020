@@ -42,8 +42,15 @@ Pre-recorded lectures, texts, articles, videos, audio clips, as well as addition
 * Discussion Participation: 20 pts
 
 ### Revision Policy
-After project critiques, you will have the chance to revise your assignments using what you've learned in our discussion. Revised projects can be submitted directly to me by sharing the updated file on Google Drive.
+
+After project critiques, you will have the chance to revise your assignments using what you've learned in our discussion. Revised projects can be submitted directly to me by pushing the updated changes to our GitHub repository.
 
 ### Attendance, Participation, Being Online
 
+This is a four hour course, with one contact hour per week in the form of Thursday discussions. You should expect to read, watch, or listen to around 3 hours of required course materials per week, in addition to the time it will take to complete assignments. Attendance and for all discussions is required. 
 
+In our online discussions:
+
+* Don't turn your video off. Turning off your video will be considered leaving early or not showing up.
+* Don't meet with us from your bed, and in that line, please don't lay down.
+* Do get up and move around, pace, stretch, and reenergize yourself if you want or need to. Don't feel like you have to stare into the camera the entire time.
