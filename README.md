@@ -1,5 +1,5 @@
 # Digital Practices in Art and Design 
-# IDEA 120, Fall 2020
+## IDEA 120, Fall 2020
 
 #### Syllabus
 
